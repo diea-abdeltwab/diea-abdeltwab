@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="800" height="100" role="img" aria-label="/ devsetup &amp; tools">
+<defs><linearGradient id="r" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6CE5B5" stop-opacity="0.6"/><stop offset="1" stop-color="#333E4E" stop-opacity="0"/></linearGradient></defs>
+<rect x="10" y="6" width="780" height="88" rx="14" fill="#141E2F" stroke="#333E4E" stroke-width="1.5"/>
+<text x="44" y="38" font-family="'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6CE5B5" xml:space="preserve">~ ❯ ls ~/tools</text>
+<text x="44" y="76" font-family="Outfit,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="26" font-weight="600" fill="#E5ECF3" xml:space="preserve"><tspan fill="#6CE5B5">/ </tspan>devsetup &amp; tools</text>
+<rect x="385" y="66" width="371" height="1.5" fill="url(#r)"/>
+</svg>
