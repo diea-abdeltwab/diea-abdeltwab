@@ -10,11 +10,11 @@
 
 <br><br>
 
-[![Website](https://img.shields.io/badge/diea.online-6CE5B5?style=for-the-badge&logo=safari&logoColor=141E2F&labelColor=6CE5B5)](https://diea.online)
-[![Airflow Course](https://img.shields.io/badge/airflow.diea.online-1C283A?style=for-the-badge&logo=apacheairflow&logoColor=6CE5B5&labelColor=1C283A)](https://airflow.diea.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C283A?style=for-the-badge&logo=linkedin&logoColor=6CE5B5&labelColor=1C283A)](https://www.linkedin.com/in/diea-abdeltwab/)
-[![Email](https://img.shields.io/badge/Email-1C283A?style=for-the-badge&logo=gmail&logoColor=6CE5B5&labelColor=1C283A)](mailto:diea.abdeltwab@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1C283A?style=for-the-badge&logo=leetcode&logoColor=6CE5B5&labelColor=1C283A)](https://leetcode.com/u/diea-abdeltwab/)
+[![Website](https://img.shields.io/badge/diea.online-6CE5B5?style=for-the-badge&logo=safari&logoColor=6CE5B5&labelColor=141E2F)](https://diea.online)
+[![Airflow Course](https://img.shields.io/badge/airflow.diea.online-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=141E2F)](https://airflow.diea.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diea-abdeltwab/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diea.abdeltwab@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/diea-abdeltwab/)
 
 </div>
 
@@ -22,48 +22,75 @@
 
 <div align="center">
 
-<img src="assets/terminal.svg" width="800" alt="~ ❯ whoami → hi, diea here. · Data Engineer · ITI instructor · Linux enthusiast" />
+<img src="assets/terminal.svg" width="760" alt="~ ❯ whoami → hi, diea here. · Data Engineer · ITI instructor · Linux enthusiast" />
 
-<br>
+</div>
 
-<img src="assets/heading-devsetup.svg" width="800" alt="/ devsetup &amp; tools" />
+## 🖥️ DevSetup & Tools
+
+<div align="center">
+
+[![DevSetup & Tools](https://go-skill-icons.vercel.app/api/icons?i=fedora,arch,gnome,alacritty,obsidian,linux,bash,c,python,docker,git,github&perline=6)](https://go-skill-icons.vercel.app)
+
+</div>
+
+## 🛠️ Data Engineering Skills
+
+<div align="center">
 
 <table>
 <tr>
-<td><img src="assets/skills/dev-setup.svg" alt="DevSetup: Fedora, Arch, GNOME, Alacritty, Obsidian, Linux" /></td>
-<td><img src="assets/skills/dev-tools.svg" alt="Tools: Bash, C, Python, Docker, Git, GitHub" /></td>
+<td align="right" valign="middle"><b>Programming</b></td>
+<td valign="middle"><img src="assets/skills/programming.svg" alt="Programming" /></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>Concepts &amp; Architecture</b></td>
+<td valign="middle"><img src="assets/skills/concepts.svg" alt="Concepts &amp; Architecture" /></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>Data Ingestion &amp; Streaming</b></td>
+<td valign="middle"><img src="assets/skills/ingestion.svg" alt="Data Ingestion &amp; Streaming" /></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>Databases</b></td>
+<td valign="middle"><img src="assets/skills/databases.svg" alt="Databases" /></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>Data Lake, Warehousing &amp; Lakehouse</b></td>
+<td valign="middle"><img src="assets/skills/lake.svg" alt="Data Lake, Warehousing &amp; Lakehouse" /></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>Data Processing</b></td>
+<td valign="middle"><img src="assets/skills/processing.svg" alt="Data Processing" /></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>Workflow Orchestration &amp; ETL</b></td>
+<td valign="middle"><img src="assets/skills/orchestration.svg" alt="Workflow Orchestration &amp; ETL" /></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>Cloud</b></td>
+<td valign="middle"><img src="assets/skills/cloud.svg" alt="Cloud" /></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>Analytics &amp; Visualization</b></td>
+<td valign="middle"><img src="assets/skills/analytics.svg" alt="Analytics &amp; Visualization" /></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>DevOps &amp; Tools</b></td>
+<td valign="middle"><img src="assets/skills/devops.svg" alt="DevOps &amp; Tools" /></td>
 </tr>
 </table>
 
-<br>
+</div>
 
-<img src="assets/heading-skills.svg" width="800" alt="/ data engineering skills" />
+---
 
-<table>
-<tr>
-<td><img src="assets/skills/programming.svg" alt="Programming" /></td>
-<td><img src="assets/skills/concepts.svg" alt="Concepts &amp; Architecture" /></td>
-</tr>
-<tr>
-<td><img src="assets/skills/ingestion.svg" alt="Data Ingestion &amp; Streaming" /></td>
-<td><img src="assets/skills/databases.svg" alt="Databases" /></td>
-</tr>
-<tr>
-<td><img src="assets/skills/lake.svg" alt="Data Lake, Warehousing &amp; Lakehouse" /></td>
-<td><img src="assets/skills/processing.svg" alt="Data Processing" /></td>
-</tr>
-<tr>
-<td><img src="assets/skills/orchestration.svg" alt="Workflow Orchestration &amp; ETL" /></td>
-<td><img src="assets/skills/cloud.svg" alt="Cloud" /></td>
-</tr>
-<tr>
-<td><img src="assets/skills/analytics.svg" alt="Analytics &amp; Visualization" /></td>
-<td><img src="assets/skills/devops.svg" alt="DevOps &amp; Tools" /></td>
-</tr>
-</table>
+<div align="center">
 
-<br>
+```text
+$ git commit -m "keep building"
+```
 
-<img src="assets/footer.svg" width="800" alt="diea abdeltwab — built by hand · exit 0" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:243144,50:1C283A,100:141E2F&height=100&section=footer)
 
 </div>
