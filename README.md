@@ -10,11 +10,9 @@
 
 <br><br>
 
-[![Website](https://img.shields.io/badge/diea.online-6CE5B5?style=for-the-badge&logo=safari&logoColor=6CE5B5&labelColor=141E2F)](https://diea.online)
-[![Airflow Course](https://img.shields.io/badge/airflow.diea.online-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=141E2F)](https://airflow.diea.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=141E2F)](https://www.linkedin.com/in/diea-abdeltwab/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=141E2F)](mailto:diea.abdeltwab@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=141E2F)](https://leetcode.com/u/diea-abdeltwab/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1800&pause=1000&color=6CE5B5&background=00000000&center=true&vCenter=true&repeat=false&width=520&height=56&lines=~+%E2%9D%AF+Connect+with+me" alt="Connect with me" />
+
+<a href="https://diea.online"><img src="https://go-skill-icons.vercel.app/api/icons?i=safari&theme=dark" width="72" alt="Website" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://airflow.diea.online"><img src="https://go-skill-icons.vercel.app/api/icons?i=airflow&theme=dark" width="72" alt="Airflow Course" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/diea-abdeltwab/"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" width="72" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:diea.abdeltwab@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" width="72" alt="Email" /></a>
 
 </div>
 
@@ -30,7 +28,7 @@
 
 <div align="center">
 
-[![DevSetup & Tools](https://go-skill-icons.vercel.app/api/icons?i=linux,fedora,arch,gnome,bash,alacritty,obsidian,c,python,docker,git,github,jupyter,vscode&perline=7)](https://go-skill-icons.vercel.app)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,fedora,arch,gnome,bash,alacritty,obsidian,c,python,docker,git,github,jupyter,vscode&perline=7" width="540" alt="DevSetup & Tools" />
 
 </div>
 
@@ -38,7 +36,7 @@
 
 <div align="center">
 
-[![Data Engineering Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sqlserver,mysql,postgresql,clickhouse,mongodb,redis,kafka,flink,hadoop,hive,spark,airflow,dbtlabs,iceberg,delta,databricks,snowflake,azure,fabric,aws,pbi,seaborn&perline=8)](https://go-skill-icons.vercel.app)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sqlserver,mysql,postgresql,clickhouse,mongodb,redis,kafka,flink,hadoop,hive,spark,airflow,dbtlabs,iceberg,delta,databricks,snowflake,azure,fabric,aws,pbi,seaborn&perline=8" width="620" alt="Data Engineering Skills" />
 
 </div>
 
