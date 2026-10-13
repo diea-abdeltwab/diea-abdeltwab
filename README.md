@@ -1,8 +1,8 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E2F,50:1C283A,100:243144&height=200&section=header&text=Diea%20Abdeltwab&fontSize=50&fontColor=E5ECF3&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%C2%B7%20From%20transistors%20to%20pipelines&descAlignY=62&descSize=18&descColor=6CE5B5)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E2F,50:1C3A3F,100:22705F&height=200&section=header&text=Diea%20Abdeltwab&fontSize=50&fontColor=E5ECF3&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%C2%B7%20From%20transistors%20to%20pipelines&descAlignY=62&descSize=18&descColor=6CE5B5)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=6CE5B5&background=00000000&center=true&vCenter=true&width=620&lines=Batch+%26+streaming+data+pipelines;I+teach+Apache+Airflow+%F0%9F%8E%93;I+ship+Bash+%26+Linux+tools+%F0%9F%90%9A;I+started+with+MIPS+%26+AVR+in+C+%F0%9F%94%8C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=6CE5B5&background=00000000&center=true&vCenter=true&width=620&lines=Batch+%26+streaming+data+pipelines;I+ship+Bash+%26+Linux+tools+%F0%9F%90%9A;I+started+with+MIPS+%26+AVR+in+C+%F0%9F%94%8C" alt="Typing SVG" />
 
 <br>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-
+<img src="assets/terminal.svg" width="760" alt="~ ❯ whoami → hi, diea here. · Data Engineer · Linux enthusiast" />
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![DevSetup & Tools](https://go-skill-icons.vercel.app/api/icons?i=arch,gnome,alacritty,obsidian,linux,bash,c,python,docker,git,github&perline=6)](https://go-skill-icons.vercel.app)
+[![DevSetup & Tools](https://go-skill-icons.vercel.app/api/icons?i=linux,fedora,arch,gnome,bash,alacritty,c,python,docker,git,github,obsidian&perline=6)](https://go-skill-icons.vercel.app)
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-[![Data Engineering Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,kafka,spark,hadoop,hive,airflow,postgres,mysql,sqlserver,mongodb,clickhouse,snowflake,databricks,azure,pbi,matplotlib,jupyter,flink&perline=6)](https://go-skill-icons.vercel.app)
+[![Data Engineering Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter,pandas,numpy,postgresql,sqlserver,mysql,clickhouse,mongodb,kafka,hadoop,spark,pyspark,hive,airflow,dbtlabs,delta,databricks,snowflake,azure,fabric,pbi,matplotlib,seaborn,githubactions&perline=6)](https://go-skill-icons.vercel.app)
 
 </div>
 
@@ -50,6 +50,6 @@
 $ git commit -m "keep building"
 ```
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:243144,50:1C283A,100:141E2F&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:22705F,50:1C3A3F,100:141E2F&height=100&section=footer)
 
 </div>
