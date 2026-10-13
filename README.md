@@ -1,3 +1,6 @@
+---
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&pause=1000&color=6CE5B5&background=00000000&center=false&vCenter=true&repeat=false&width=300&height=38&lines=~+%E2%9D%AF+whoami" alt="~ ❯ whoami" /></h2>
+
 <div align="center">
 
 <img src="assets/header.svg" width="830" alt="Diea Abdeltwab — Data Engineer · Linux Tools · From Transistor to pipelines" />
@@ -18,13 +21,7 @@
 
 ---
 
-<div align="center">
-
-<img src="assets/terminal.svg" width="760" alt="~ ❯ whoami → hi, diea here. · Data Engineer · Linux enthusiast" />
-
-</div>
-
-## 🖥️ DevSetup & Tools
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&pause=1000&color=6CE5B5&background=00000000&center=false&vCenter=true&repeat=false&width=460&height=38&lines=~+%E2%9D%AF+DevSetup+%26+Tools" alt="~ ❯ DevSetup & Tools" /></h2>
 
 <div align="center">
 
@@ -32,7 +29,9 @@
 
 </div>
 
-## 🛠️ Data Engineering Skills
+---
+
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&pause=1000&color=6CE5B5&background=00000000&center=false&vCenter=true&repeat=false&width=560&height=38&lines=~+%E2%9D%AF+Data+Engineering+Skills" alt="~ ❯ Data Engineering Skills" /></h2>
 
 <div align="center">
 
@@ -44,9 +43,15 @@
 
 <div align="center">
 
-```text
-~ ❯ git commit -m "keep building"
-```
+<img src="assets/terminal.svg" width="830" alt="~ ❯ whoami → hi, diea here. · Data Engineer · Linux enthusiast" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=1000&color=6CE5B5&background=00000000&center=true&vCenter=true&repeat=false&width=480&height=44&lines=~+%E2%9D%AF+git+commit+-m+%22keep+building%22" alt="~ ❯ git commit -m &quot;keep building&quot;" />
+
+---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:22705F,50:1C3A3F,100:141E2F&height=100&section=footer)
 
