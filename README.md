@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="assets/hero.gif" width="340" alt="Diea at his desk" />
+<img src="assets/hero.gif" width="480" alt="Diea at his desk" />
 
 <br><br>
 
