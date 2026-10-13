@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/diea-abdeltwab/diea-abdeltwab/main/assets/hero.svg" width="340" alt="Diea at his desk" />
+<img src="assets/hero.gif" width="340" alt="Diea at his desk" />
 
 <br><br>
 
