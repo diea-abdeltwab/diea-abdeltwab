@@ -38,37 +38,7 @@
 
 <div align="center">
 
-**Programming**<br>
-<img src="assets/icons/python.svg" width="58" height="58" alt="Python" /> <img src="assets/icons/pandas.svg" width="58" height="58" alt="Pandas" /> <img src="assets/icons/numpy.svg" width="58" height="58" alt="NumPy" /> <img src="assets/icons/sql.svg" width="58" height="58" alt="SQL" /> <img src="assets/icons/bash.svg" width="58" height="58" alt="Bash" />
-
-**Concepts & Architecture**<br>
-<img src="assets/icons/data-modeling.svg" width="58" height="58" alt="Data Modeling" /> <img src="assets/icons/cdc.svg" width="58" height="58" alt="CDC" /> <img src="assets/icons/medallion.svg" width="58" height="58" alt="Medallion" /> <img src="assets/icons/lakehouse.svg" width="58" height="58" alt="Lakehouse" />
-
-**Data Ingestion & Streaming**<br>
-<img src="assets/icons/kafka.svg" width="58" height="58" alt="Kafka" /> <img src="assets/icons/web-scraping.svg" width="58" height="58" alt="Web Scraping" /> <img src="assets/icons/apis.svg" width="58" height="58" alt="APIs" />
-
-**Databases**<br>
-<img src="assets/icons/postgresql.svg" width="58" height="58" alt="PostgreSQL" /> <img src="assets/icons/sql-server.svg" width="58" height="58" alt="SQL Server" /> <img src="assets/icons/mysql.svg" width="58" height="58" alt="MySQL" /> <img src="assets/icons/mongodb.svg" width="58" height="58" alt="MongoDB" />
-
-**Data Lake, Warehousing & Lakehouse**<br>
-<img src="assets/icons/hdfs.svg" width="58" height="58" alt="HDFS" /> <img src="assets/icons/minio.svg" width="58" height="58" alt="MinIO" /> <img src="assets/icons/clickhouse.svg" width="58" height="58" alt="ClickHouse" /> <img src="assets/icons/delta-lake.svg" width="58" height="58" alt="Delta Lake" />
-
-**Data Processing**<br>
-<img src="assets/icons/hadoop.svg" width="58" height="58" alt="Hadoop" /> <img src="assets/icons/spark.svg" width="58" height="58" alt="Spark" /> <img src="assets/icons/hive.svg" width="58" height="58" alt="Hive" />
-
-**Workflow Orchestration & ETL**<br>
-<img src="assets/icons/airflow.svg" width="58" height="58" alt="Airflow" /> <img src="assets/icons/dbt.svg" width="58" height="58" alt="dbt" /> <img src="assets/icons/ssis.svg" width="58" height="58" alt="SSIS" />
-
-**Cloud**<br>
-<img src="assets/icons/snowflake.svg" width="58" height="58" alt="Snowflake" /> <img src="assets/icons/databricks.svg" width="58" height="58" alt="Databricks" /> <img src="assets/icons/azure.svg" width="58" height="58" alt="Azure" /> <img src="assets/icons/fabric.svg" width="58" height="58" alt="Fabric" />
-
-**Analytics & Visualization**<br>
-<img src="assets/icons/power-bi.svg" width="58" height="58" alt="Power BI" /> <img src="assets/icons/matplotlib.svg" width="58" height="58" alt="Matplotlib" /> <img src="assets/icons/seaborn.svg" width="58" height="58" alt="Seaborn" />
-
-**DevOps & Tools**<br>
-<img src="assets/icons/linux.svg" width="58" height="58" alt="Linux" /> <img src="assets/icons/docker.svg" width="58" height="58" alt="Docker" /> <img src="assets/icons/git.svg" width="58" height="58" alt="Git" /> <img src="assets/icons/github.svg" width="58" height="58" alt="GitHub" /> <img src="assets/icons/ci-cd.svg" width="58" height="58" alt="CI/CD" /> <img src="assets/icons/jupyter.svg" width="58" height="58" alt="Jupyter" />
-
-</div>
+[![Data Engineering Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,kafka,spark,hadoop,hive,airflow,postgres,mysql,sqlserver,mongodb,clickhouse,snowflake,databricks,azure,pbi,matplotlib,jupyter,flink&perline=6)](https://go-skill-icons.vercel.app)
 
 ---
 
