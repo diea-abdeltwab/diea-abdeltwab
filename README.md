@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="assets/hero.png" width="340" alt="Diea at his desk" />
+<img src="https://raw.githubusercontent.com/diea-abdeltwab/diea-abdeltwab/main/assets/hero.svg" width="340" alt="Diea at his desk" />
 
 <br><br>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="assets/terminal.svg" width="760" alt="~ ❯ whoami → hi, diea here. · Data Engineer · ITI instructor · Linux enthusiast" />
+
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![DevSetup & Tools](https://go-skill-icons.vercel.app/api/icons?i=fedora,arch,gnome,alacritty,obsidian,linux,bash,c,python,docker,git,github&perline=6)](https://go-skill-icons.vercel.app)
+[![DevSetup & Tools](https://go-skill-icons.vercel.app/api/icons?i=arch,gnome,alacritty,obsidian,linux,bash,c,python,docker,git,github&perline=6)](https://go-skill-icons.vercel.app)
 
 </div>
 
@@ -39,6 +39,8 @@
 <div align="center">
 
 [![Data Engineering Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,kafka,spark,hadoop,hive,airflow,postgres,mysql,sqlserver,mongodb,clickhouse,snowflake,databricks,azure,pbi,matplotlib,jupyter,flink&perline=6)](https://go-skill-icons.vercel.app)
+
+</div>
 
 ---
 
